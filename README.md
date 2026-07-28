@@ -13,7 +13,6 @@ Domains/
 ├── 05-thick-client security/
 ├── 06-active-directory security/
 ├── 07-cloud security/
-│   └── cloud-aws-misconfig-lab/
 └── 08-ai security/
 ```
 
