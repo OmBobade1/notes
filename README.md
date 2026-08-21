@@ -24,10 +24,10 @@ Domains/
 | [02-web security](./Domains/02-web%20security) | Web application vulnerabilities, OWASP Top 10, testing methodology |
 | [03-API Security](./Domains/03-API%20Security) | REST/GraphQL API testing, auth flaws, common API vulnerabilities |
 | [04-mobile security](./Domains/04-mobile%20security) | Android/iOS app security testing notes |
-| [05-active-directory security](./Domains/06-active-directory%20security) | AD enumeration, attacks, and hardening notes |
-| [06-cloud security](./Domains/07-cloud%20security) | Cloud security notes, including AWS misconfig lab | 
-| [07-ai security](./Domains/08-ai%20security) | AI/LLM security research and notes | 
-| [08-thick-client security](./Domains/05-thick-client%20security) | Desktop application security testing |
+| [05-active-directory security](./Domains/05-active-directory%20security) | AD enumeration, attacks, and hardening notes |
+| [06-cloud security](./Domains/06-cloud%20security) | Cloud security notes, including AWS misconfig lab | 
+| [07-ai security](./Domains/07-ai%20security) | AI/LLM security research and notes | 
+| [08-thick-client security](./Domains/08-thick-client%20security) | Desktop application security testing |
 
 ## 🎯 Purpose
 
